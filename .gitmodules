@@ -1,0 +1,3 @@
+[submodule "avocato"]
+	path = avocato
+	url = https://github.com/plazmixnetwork/avocato
